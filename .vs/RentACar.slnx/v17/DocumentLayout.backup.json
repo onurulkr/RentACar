@@ -1,12 +1,92 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ONUR ULKER\\Desktop\\github\\RentACar\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\RentACar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75B364B2-8797-4392-9232-A4BDB43D682A}|WebApi\\WebApi.csproj|c:\\users\\onuru\\onedrive\\masa\u00FCst\u00FC\\github\\rentacar\\webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B364B2-8797-4392-9232-A4BDB43D682A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B364B2-8797-4392-9232-A4BDB43D682A}|WebApi\\WebApi.csproj|c:\\users\\onuru\\onedrive\\masa\u00FCst\u00FC\\github\\rentacar\\webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B364B2-8797-4392-9232-A4BDB43D682A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B364B2-8797-4392-9232-A4BDB43D682A}|WebApi\\WebApi.csproj|c:\\users\\onuru\\onedrive\\masa\u00FCst\u00FC\\github\\rentacar\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B364B2-8797-4392-9232-A4BDB43D682A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1184C97F-AF80-4778-8A3A-9D449B2DBE85}|Application\\Application.csproj|c:\\users\\onuru\\onedrive\\masa\u00FCst\u00FC\\github\\rentacar\\application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1184C97F-AF80-4778-8A3A-9D449B2DBE85}|Application\\Application.csproj|solutionrelative:application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\RentACar\\WebApi\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\RentACar\\WebApi\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T13:32:48.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\RentACar\\WebApi\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\RentACar\\WebApi\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T13:31:55.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\RentACar\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\RentACar\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T13:27:50.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\RentACar\\Application\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Application\\ApplicationServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\RentACar\\Application\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "Application\\ApplicationServiceRegistration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T13:23:34.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
