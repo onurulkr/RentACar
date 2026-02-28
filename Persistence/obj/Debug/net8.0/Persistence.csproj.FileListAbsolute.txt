@@ -10,3 +10,15 @@ C:\Users\ONUR ULKER\Desktop\github\RentACar\Persistence\obj\Debug\net8.0\Persist
 C:\Users\ONUR ULKER\Desktop\github\RentACar\Persistence\obj\Debug\net8.0\refint\Persistence.dll
 C:\Users\ONUR ULKER\Desktop\github\RentACar\Persistence\obj\Debug\net8.0\Persistence.pdb
 C:\Users\ONUR ULKER\Desktop\github\RentACar\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\Users\onuru\OneDrive\Masaüstü\github\RentACar\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\onuru\OneDrive\Masaüstü\github\RentACar\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\onuru\OneDrive\Masaüstü\github\RentACar\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\onuru\OneDrive\Masaüstü\github\RentACar\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onuru\OneDrive\Masaüstü\github\RentACar\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\onuru\OneDrive\Masaüstü\github\RentACar\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\onuru\OneDrive\Masaüstü\github\RentACar\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\onuru\OneDrive\Masaüstü\github\RentACar\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+C:\Users\onuru\OneDrive\Masaüstü\github\RentACar\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\onuru\OneDrive\Masaüstü\github\RentACar\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\onuru\OneDrive\Masaüstü\github\RentACar\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\onuru\OneDrive\Masaüstü\github\RentACar\Persistence\obj\Debug\net8.0\ref\Persistence.dll
