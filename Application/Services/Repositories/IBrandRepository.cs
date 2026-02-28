@@ -4,9 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Services.Repositories
+namespace Application.Services.Repositories;
+
+public interface IBrandRepository:IAsyncRepository<Brand>,IRepository<Brand>
 {
-    internal interface IBrandRepository
-    {
-    }
 }
