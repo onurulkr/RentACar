@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\RentACar\\",
+  "WorkspaceRootPath": "C:\\Users\\ONUR ULKER\\Desktop\\github\\RentACar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1184C97F-AF80-4778-8A3A-9D449B2DBE85}|Application\\Application.csproj|c:\\users\\onuru\\onedrive\\masa\u00FCst\u00FC\\github\\rentacar\\application\\services\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1184C97F-AF80-4778-8A3A-9D449B2DBE85}|Application\\Application.csproj|solutionrelative:application\\services\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1184C97F-AF80-4778-8A3A-9D449B2DBE85}|Application\\Application.csproj|c:\\users\\onur ulker\\desktop\\github\\rentacar\\application\\features\\brands\\queries\\getbyid\\getbyidbrandquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1184C97F-AF80-4778-8A3A-9D449B2DBE85}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\queries\\getbyid\\getbyidbrandquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1184C97F-AF80-4778-8A3A-9D449B2DBE85}|Application\\Application.csproj|c:\\users\\onur ulker\\desktop\\github\\rentacar\\application\\features\\brands\\queries\\getbyid\\getbyidbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1184C97F-AF80-4778-8A3A-9D449B2DBE85}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\queries\\getbyid\\getbyidbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,20 +21,29 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetByIdBrandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ONUR ULKER\\Desktop\\github\\RentACar\\Application\\Features\\Brands\\Queries\\GetById\\GetByIdBrandResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Brands\\Queries\\GetById\\GetByIdBrandResponse.cs",
+              "ToolTip": "C:\\Users\\ONUR ULKER\\Desktop\\github\\RentACar\\Application\\Features\\Brands\\Queries\\GetById\\GetByIdBrandResponse.cs",
+              "RelativeToolTip": "Application\\Features\\Brands\\Queries\\GetById\\GetByIdBrandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T12:14:11.517Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IBrandRepository.cs",
-              "DocumentMoniker": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\RentACar\\Application\\Services\\Repositories\\IBrandRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Repositories\\IBrandRepository.cs",
-              "ToolTip": "C:\\Users\\onuru\\OneDrive\\Masa\u00FCst\u00FC\\github\\RentACar\\Application\\Services\\Repositories\\IBrandRepository.cs*",
-              "RelativeToolTip": "Application\\Services\\Repositories\\IBrandRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "GetByIdBrandQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ONUR ULKER\\Desktop\\github\\RentACar\\Application\\Features\\Brands\\Queries\\GetById\\GetByIdBrandQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Brands\\Queries\\GetById\\GetByIdBrandQuery.cs",
+              "ToolTip": "C:\\Users\\ONUR ULKER\\Desktop\\github\\RentACar\\Application\\Features\\Brands\\Queries\\GetById\\GetByIdBrandQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Brands\\Queries\\GetById\\GetByIdBrandQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T19:08:04.838Z",
+              "WhenOpened": "2026-03-02T12:14:10.648Z",
               "EditorCaption": ""
             }
           ]
