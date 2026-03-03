@@ -15,6 +15,10 @@ public class BaseDbContext : DbContext
 {
     protected IConfiguration Configuration { get; set; }
     protected DbSet<Brand> Brands { get; set; }
+    protected DbSet<Car> Cars { get; set; }
+    protected DbSet<Fuel> Fuels { get; set; }
+    protected DbSet<Transmission> Transmissions { get; set; }
+    protected DbSet<Model> Models { get; set; }
 
     public BaseDbContext(DbContextOptions dbContextOptions, IConfiguration configuration) : base(dbContextOptions)
     {
