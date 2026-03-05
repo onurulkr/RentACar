@@ -10,7 +10,7 @@ namespace Domain.Entities;
 public class Model : Entity<Guid>
 {
     public Guid BrandId { get; set; }
-    public Guid FieldId { get; set; }
+    public Guid FuelId { get; set; }
     public Guid TransmissionId { get; set; }
     public string Name { get; set; }
     public decimal DailyPrice { get; set; }
@@ -31,7 +31,7 @@ public class Model : Entity<Guid>
     {
         Id = id;
         BrandId = brandId;
-        FieldId = fuelId;
+        FuelId = fuelId;
         Name = name;
         DailyPrice = dailyPrice;
         ImageUrl = imageUrl;
